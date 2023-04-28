@@ -71,6 +71,12 @@ const Navbar = () => {
               <li className="p__opensans">
                 <a href="#contact">Contact</a>
               </li>
+              <li className="app__navbar-smallscreen-links_login p__opensans">
+                <a href="#contact"> Log In / Register</a>
+              </li>
+              <li className="app__navbar-smallscreen-links_login p__opensans">
+                <a href="/">book table</a>
+              </li>
             </ul>
           </div>
         )}
