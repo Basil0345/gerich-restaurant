@@ -17,12 +17,6 @@
   flex-direction: row;
 }
 
-.app__menuitems-head {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
 .app__specialMenu-menu_wine,
 .app__specialMenu-menu_cocktails {
   flex: 1;
